@@ -16,10 +16,7 @@ import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 import net.proteanit.sql.DbUtils;
 
-/**
- *
- * @author ASUS ZenBook
- */
+ 
 public class CategoryPanel extends javax.swing.JFrame {
 
     /**
@@ -295,12 +292,12 @@ public class CategoryPanel extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void CatIdActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_CatIdActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_CatIdActionPerformed
+         
+    } 
 
     private void DeleteBtnActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_DeleteBtnActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_DeleteBtnActionPerformed
+         
+    }  
 
     private void CatNameActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_CatNameActionPerformed
         // TODO add your handling code here:
